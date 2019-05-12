@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "frontend": "git@github.com:devconnecthh/whiteboard-to-code-frontend.git"
+  }
+}
